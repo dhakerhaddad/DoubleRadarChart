@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RadarChart">
+
+        <attr name="linesColor" format="color"/>
+        <attr name="chart1BackgroundStarColor" format="color"/>
+        <attr name="chart1backgroundEndColor" format="color"/>
+        <attr name="chart2BackgroundStarColor" format="color"/>
+        <attr name="chart2backgroundEndColor" format="color"/>
+        <attr name="linesStroke" format="float" />
+        <attr name="chart1DotsColor" format="color" />
+        <attr name="chart2DotsColor" format="color" />
+        <attr name="dotsRadius" format="integer" />
+        <attr name="labelTextSize" format="dimension" />
+        <attr name="labelTextColor" format="color" />
+    </declare-styleable>
+</resources>

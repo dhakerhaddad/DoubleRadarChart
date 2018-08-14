@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">RadarChartExample</string>
+    <string name="random_chart">Random chart</string>
+    <string name="random_chart_1">Random chart 1</string>
+    <string name="random_chart_2">Random chart 2</string>
+    <string name="try_double_chart">Try double chart</string>
+    <string name="random_two_chart">Random two chart</string>
 </resources>
