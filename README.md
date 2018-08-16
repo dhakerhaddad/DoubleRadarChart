@@ -1,7 +1,7 @@
 # DoubleRadarChart
- Hi, my ame is Dhaker HADDAD, I'm new to android developing and this is my first library in android world.
+ Hi, my name is Dhaker HADDAD, I'm new to android developing and this is my first library in android world.
  
- this library, as her name says, contains a custom view that draw a two five lines radarchart, you can custom these charts as you like.
+ this library, as her name says, contains a custom view that draws a two five lines radarchart, you can custom these charts as you like.
  
 To get a Git project into your build:
 
